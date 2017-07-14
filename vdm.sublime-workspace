@@ -1,0 +1,2721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"acf",
+				"acfPoints"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"rbg",
+				"rgba\trgba()"
+			],
+			[
+				"prin",
+				"printf〔function〕"
+			],
+			[
+				"cate",
+				"$categorie_actu〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"r",
+				"rgba\trgba()"
+			],
+			[
+				"gutter",
+				"gutter-big"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"gut",
+				"gutter-big"
+			],
+			[
+				"html",
+				"html5blank"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"te",
+				"text-color-light"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"is",
+				"isotopeArgNew"
+			],
+			[
+				"iso",
+				"isotope"
+			],
+			[
+				"isot",
+				"isotopeArgDefault"
+			],
+			[
+				"isop",
+				"isotopeArgDefault"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"share",
+				"sharebutton"
+			],
+			[
+				"image",
+				"imagesLoaded"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"push",
+				"pushState"
+			],
+			[
+				"marb",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"guter",
+				"gutter-big"
+			],
+			[
+				"move",
+				"moveByHistoty"
+			],
+			[
+				"as",
+				"absolute"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"loading",
+				"loading-flat"
+			],
+			[
+				"get_category",
+				"get_category_link"
+			],
+			[
+				"get_the",
+				"get_the_ID"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"text",
+				"text-color-light"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"page",
+				"pageActu"
+			],
+			[
+				"th",
+				"$thumbnail〔variable〕"
+			],
+			[
+				"gu",
+				"gutter"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"rgb",
+				"rgba\trgba()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"rb",
+				"rgba\trgba()"
+			],
+			[
+				"actu",
+				"actualités"
+			],
+			[
+				"list-",
+				"list-basic"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"vide",
+				"video_a_lhonneur"
+			],
+			[
+				"bodcolo",
+				"border-bottom-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"endfore",
+				"endforeach〔keyword〕"
+			],
+			[
+				"flex-",
+				"flex-6"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"asite",
+				"aside-width"
+			],
+			[
+				"s",
+				"stretch"
+			],
+			[
+				"the_",
+				"the_title"
+			],
+			[
+				"get_",
+				"get_field"
+			],
+			[
+				"marign",
+				"margin-left"
+			],
+			[
+				"get_th",
+				"get_the_title"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"rela",
+				"relations"
+			],
+			[
+				"artiste",
+				"$artisteID〔variable〕"
+			],
+			[
+				"orde",
+				"orderby"
+			],
+			[
+				"aside",
+				"aside-open"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"re",
+				"rem-calc"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bordo",
+				"border-bottom"
+			],
+			[
+				"sho",
+				"show-for-small"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"nav",
+				"nav-menu"
+			],
+			[
+				"togl",
+				"toggleClass〔function〕"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"gutt",
+				"gutter-small"
+			],
+			[
+				"get_the_c",
+				"get_the_content"
+			],
+			[
+				"fi",
+				"filters"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"categ",
+				"$categorie〔variable〕"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"has_post",
+				"has_post_thumbnail"
+			],
+			[
+				"flex-co",
+				"flex-column"
+			],
+			[
+				"title",
+				"title-font"
+			],
+			[
+				"ligh",
+				"light-grey"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"se",
+				"section-gutter"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"the_exer",
+				"the_excerpt"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"flex-column",
+				"flex-column-wrap"
+			],
+			[
+				"vi",
+				"videos"
+			],
+			[
+				"ca",
+				"caption"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"gallerie",
+				"gallerieId"
+			],
+			[
+				"ga",
+				"$gallery〔variable〕"
+			],
+			[
+				"galel",
+				"gallerie_id"
+			],
+			[
+				"catego",
+				"categorie"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"border-left",
+				"border-left-color: 〔property〕"
+			],
+			[
+				"lig",
+				"lighter〔value〕"
+			],
+			[
+				"background-",
+				"background-color: 〔property〕"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n    // The tab key will cycle through the settings when first created\n    // Visit http://wbond.net/sublime_packages/sftp/settings for help\n\n    // sftp, ftp or ftps\n    \"type\": \"sftp\",\n\n    \"save_before_upload\": true,\n    \"upload_on_save\": true,\n    \"sync_down_on_open\": false,\n    \"sync_skip_deletes\": false,\n    \"confirm_downloads\": false,\n    \"confirm_sync\": false,\n    \"confirm_overwrite_newer\": false,\n\n    // \"host\": \"1   and1\",\n    // \"user\": \"u54944036\",\n    // \"ssh_key_file\": \"~/.ssh/1and1_hosting\",\n    // \"remote_path\": \"/client/oniris/wp-content/themes/oniris-v2\",\n    \n    \"host\" : \"onlinet\",\n    \"user\" : \"laventurier\",\n    \"ssh_key_file\": \"~/.ssh/littleviking\",\n    \"remote_path\": \"/var/www/html/viedemotard/wp-content/themes/ionMag\",\n\n    \"ignore_regexes\": [\n        \"\\\\.sublime-(project|workspace)\", \"sftp-config(-alt\\\\d?)?\\\\.json\",\n        \"sftp-settings\\\\.json\",\"package\\\\.json\",\"Gruntfile\\\\.js\", \"/venv/\", \"\\\\.svn\", \"\\\\.hg\", \"\\\\.git\",\n        \"\\\\.bzr\", \"_darcs\", \"CVS\", \"\\\\.DS_Store\", \"Thumbs\\\\.db\", \"desktop\\\\.ini\", \"\\\\.rb\", \"\\\\.sass-cache\", \"scss\", \"node_modules\", \"SOURCE\"\n    ],\n    //\"file_permissions\": \"664\",\n    //\"dir_permissions\": \"775\",\n\n    //\"extra_list_connections\": 0,\n\n    \"connect_timeout\": 30,\n    //\"keepalive\": 120,\n    //\"ftp_passive_mode\": true,\n    //\"ssh_key_file\": \"~/.ssh/id_rsa\",\n    //\"sftp_flags\": [\"-F\", \"/path/to/ssh_config\"],\n\n    //\"preserve_modification_times\": false,\n    //\"remote_time_offset_in_hours\": 0,\n    //\"remote_encoding\": \"utf-8\",\n    //\"remote_locale\": \"C\",\n}",
+			"file": "sftp-config.json",
+			"file_size": 1572,
+			"file_write_time": 131443359860000000,
+			"settings":
+			{
+				"buffer_size": 1530,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "page-pagebuilder.php",
+			"settings":
+			{
+				"buffer_size": 7259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 1 file for \"#dd3333\"\n\n0 matches\n\nSearching 551 files for \"#dd3333\"\n\n0 matches\n\nSearching 551 files for \"picker\"\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/td_config.php:\n  678  \t\t\t\t\t// title settings\n  679                      array(\n  680:                         \"type\" => \"colorpicker\",\n  681                          \"holder\" => \"div\",\n  682                          \"class\" => \"\",\n  ...\n  688                      ),\n  689  \t\t\t\t\tarray(\n  690: \t\t\t\t\t\t\"type\" => \"colorpicker\",\n  691  \t\t\t\t\t\t\"holder\" => \"div\",\n  692  \t\t\t\t\t\t\"class\" => \"\",\n  ...\n 1013                      ),\n 1014                      array(\n 1015:                         \"type\" => \"colorpicker\",\n 1016                          \"holder\" => \"div\",\n 1017                          \"class\" => \"\",\n ....\n 1022                      ),\n 1023                      array(\n 1024:                         \"type\" => \"colorpicker\",\n 1025                          \"holder\" => \"div\",\n 1026                          \"class\" => \"\",\n ....\n 1111                      ),\n 1112                      array(\n 1113:                         \"type\" => \"colorpicker\",\n 1114                          \"holder\" => \"div\",\n 1115                          \"class\" => \"\",\n ....\n 1120                      ),\n 1121                      array(\n 1122:                         \"type\" => \"colorpicker\",\n 1123                          \"holder\" => \"div\",\n 1124                          \"class\" => \"\",\n ....\n 1218                      ),\n 1219                      array(\n 1220:                         \"type\" => \"colorpicker\",\n 1221                          \"holder\" => \"div\",\n 1222                          \"class\" => \"\",\n ....\n 1227                      ),\n 1228                      array(\n 1229:                         \"type\" => \"colorpicker\",\n 1230                          \"holder\" => \"div\",\n 1231                          \"class\" => \"\",\n ....\n 1539                      ),\n 1540                      array(\n 1541:                         \"type\" => \"colorpicker\",\n 1542                          \"holder\" => \"div\",\n 1543                          \"class\" => \"\",\n ....\n 1548                      ),\n 1549                      array(\n 1550:                         \"type\" => \"colorpicker\",\n 1551                          \"holder\" => \"div\",\n 1552                          \"class\" => \"\",\n ....\n 1621  \n 1622                      array(\n 1623:                         \"type\" => \"colorpicker\",\n 1624                          \"holder\" => \"div\",\n 1625                          \"class\" => \"\",\n ....\n 1631  \n 1632                      array(\n 1633:                         \"type\" => \"colorpicker\",\n 1634                          \"holder\" => \"div\",\n 1635                          \"class\" => \"\",\n ....\n 1814                      ),\n 1815                      array(\n 1816:                         \"type\" => \"colorpicker\",\n 1817                          \"holder\" => \"div\",\n 1818                          \"class\" => \"\",\n ....\n 1823                      ),\n 1824                      array(\n 1825:                         \"type\" => \"colorpicker\",\n 1826                          \"holder\" => \"div\",\n 1827                          \"class\" => \"\",\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/td_panel_theme_colors.php:\n   58      <div class=\"td-box-control-full\">\n   59          <?php\n   60:         echo td_panel_generator::color_picker(array(\n   61              'ds' => 'td_option',\n   62              'option_id' => 'tds_header_wrap_color',\n   ..\n   75      <div class=\"td-box-control-full\">\n   76          <?php\n   77:         echo td_panel_generator::color_picker(array(\n   78              'ds' => 'td_option',\n   79              'option_id' => 'tds_text_logo_color',\n   ..\n   92      <div class=\"td-box-control-full\">\n   93          <?php\n   94:         echo td_panel_generator::color_picker(array(\n   95              'ds' => 'td_option',\n   96              'option_id' => 'tds_text_logo_tagline_color',\n   ..\n  129      <div class=\"td-box-control-full\">\n  130          <?php\n  131:         echo td_panel_generator::color_picker(array(\n  132              'ds' => 'td_option',\n  133              'option_id' => 'tds_footer_color',\n  ...\n  146      <div class=\"td-box-control-full\">\n  147          <?php\n  148:         echo td_panel_generator::color_picker(array(\n  149              'ds' => 'td_option',\n  150              'option_id' => 'tds_footer_text_color',\n  ...\n  164      <div class=\"td-box-control-full\">\n  165          <?php\n  166:         echo td_panel_generator::color_picker(array(\n  167              'ds' => 'td_option',\n  168              'option_id' => 'tds_footer_widget_text_color',\n  ...\n  189      <div class=\"td-box-control-full\">\n  190          <?php\n  191:         echo td_panel_generator::color_picker(array(\n  192              'ds' => 'td_option',\n  193              'option_id' => 'tds_footer_bottom_color',\n  ...\n  207      <div class=\"td-box-control-full\">\n  208          <?php\n  209:         echo td_panel_generator::color_picker(array(\n  210              'ds' => 'td_option',\n  211              'option_id' => 'tds_footer_bottom_text_color',\n  ...\n  225      <div class=\"td-box-control-full\">\n  226          <?php\n  227:         echo td_panel_generator::color_picker(array(\n  228              'ds' => 'td_option',\n  229              'option_id' => 'tds_footer_bottom_hover_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_general_theme_colors.php:\n    7      <div class=\"td-box-control-full\">\n    8          <?php\n    9:         echo td_panel_generator::color_picker(array(\n   10              'ds' => 'td_option',\n   11              'option_id' => 'tds_theme_color',\n   ..\n   25      <div class=\"td-box-control-full\">\n   26          <?php\n   27:         echo td_panel_generator::color_picker(array(\n   28              'ds' => 'td_option',\n   29              'option_id' => 'tds_site_background_color',\n   ..\n   43  \t<div class=\"td-box-control-full\">\n   44  \t\t<?php\n   45: \t\techo td_panel_generator::color_picker(array(\n   46  \t\t\t'ds' => 'td_option',\n   47  \t\t\t'option_id' => 'tds_header_color',\n   ..\n   61  \t<div class=\"td-box-control-full\">\n   62  \t\t<?php\n   63: \t\techo td_panel_generator::color_picker(array(\n   64  \t\t\t'ds' => 'td_option',\n   65  \t\t\t'option_id' => 'tds_text_header_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_login_modal.php:\n    7      <div class=\"td-box-control-full\">\n    8          <?php\n    9:         echo td_panel_generator::color_picker(array(\n   10              'ds' => 'td_option',\n   11              'option_id' => 'tds_login_gradient_one',\n   12              'default_color' => 'rgba(42, 128, 203, 0.8)'\n   13          ));\n   14:         echo td_panel_generator::color_picker(array(\n   15              'ds' => 'td_option',\n   16              'option_id' => 'tds_login_gradient_two',\n   ..\n   29      <div class=\"td-box-control-full\">\n   30          <?php\n   31:         echo td_panel_generator::color_picker(array(\n   32              'ds' => 'td_option',\n   33              'option_id' => 'tds_login_text_color',\n   ..\n   46      <div class=\"td-box-control-full\">\n   47          <?php\n   48:         echo td_panel_generator::color_picker(array(\n   49              'ds' => 'td_option',\n   50              'option_id' => 'tds_login_button_background',\n   51              'default_color' => '#ffffff'\n   52          ));\n   53:         echo td_panel_generator::color_picker(array(\n   54              'ds' => 'td_option',\n   55              'option_id' => 'tds_login_button_color',\n   ..\n   68      <div class=\"td-box-control-full\">\n   69          <?php\n   70:         echo td_panel_generator::color_picker(array(\n   71              'ds' => 'td_option',\n   72              'option_id' => 'tds_login_hover_background',\n   73              'default_color' => '#deea4b'\n   74          ));\n   75:         echo td_panel_generator::color_picker(array(\n   76              'ds' => 'td_option',\n   77              'option_id' => 'tds_login_hover_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_main_menu.php:\n    8      <div class=\"td-box-control-full\">\n    9          <?php\n   10:         echo td_panel_generator::color_picker(array(\n   11              'ds' => 'td_option',\n   12              'option_id' => 'tds_menu_color',\n   ..\n   25      <div class=\"td-box-control-full\">\n   26          <?php\n   27:         echo td_panel_generator::color_picker(array(\n   28              'ds' => 'td_option',\n   29              'option_id' => 'tds_menu_text_color',\n   ..\n   42      <div class=\"td-box-control-full\">\n   43          <?php\n   44:         echo td_panel_generator::color_picker(array(\n   45              'ds' => 'td_option',\n   46              'option_id' => 'tds_submenu_hover_color',\n   ..\n   59      <div class=\"td-box-control-full\">\n   60          <?php\n   61:         echo td_panel_generator::color_picker(array(\n   62              'ds' => 'td_option',\n   63              'option_id' => 'tds_menu_border_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_mobile_menu.php:\n    7      <div class=\"td-box-control-full\">\n    8          <?php\n    9:         echo td_panel_generator::color_picker(array(\n   10              'ds' => 'td_option',\n   11              'option_id' => 'tds_mobile_menu_color',\n   ..\n   24      <div class=\"td-box-control-full\">\n   25          <?php\n   26:         echo td_panel_generator::color_picker(array(\n   27              'ds' => 'td_option',\n   28              'option_id' => 'tds_mobile_icons_color',\n   ..\n   41      <div class=\"td-box-control-full\">\n   42          <?php\n   43:         echo td_panel_generator::color_picker(array(\n   44              'ds' => 'td_option',\n   45              'option_id' => 'tds_mobile_background_color',\n   ..\n   58      <div class=\"td-box-control-full\">\n   59          <?php\n   60:         echo td_panel_generator::color_picker(array(\n   61              'ds' => 'td_option',\n   62              'option_id' => 'tds_mobile_gradient_one_mob',\n   63              'default_color' => ''\n   64          ));\n   65:         echo td_panel_generator::color_picker(array(\n   66              'ds' => 'td_option',\n   67              'option_id' => 'tds_mobile_gradient_two_mob',\n   ..\n   80      <div class=\"td-box-control-full\">\n   81          <?php\n   82:         echo td_panel_generator::color_picker(array(\n   83              'ds' => 'td_option',\n   84              'option_id' => 'tds_mobile_text_color',\n   ..\n   97      <div class=\"td-box-control-full\">\n   98          <?php\n   99:         echo td_panel_generator::color_picker(array(\n  100              'ds' => 'td_option',\n  101              'option_id' => 'tds_mobile_text_active_color',\n  ...\n  114      <div class=\"td-box-control-full\">\n  115          <?php\n  116:         echo td_panel_generator::color_picker(array(\n  117              'ds' => 'td_option',\n  118              'option_id' => 'tds_mobile_button_background_mob',\n  119              'default_color' => '#000000'\n  120          ));\n  121:         echo td_panel_generator::color_picker(array(\n  122              'ds' => 'td_option',\n  123              'option_id' => 'tds_mobile_button_color_mob',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_pages.php:\n    8      <div class=\"td-box-control-full\">\n    9          <?php\n   10:         echo td_panel_generator::color_picker(array(\n   11              'ds' => 'td_option',\n   12              'option_id' => 'tds_page_title_color',\n   ..\n   25      <div class=\"td-box-control-full\">\n   26          <?php\n   27:         echo td_panel_generator::color_picker(array(\n   28              'ds' => 'td_option',\n   29              'option_id' => 'tds_page_content_color',\n   ..\n   42      <div class=\"td-box-control-full\">\n   43          <?php\n   44:         echo td_panel_generator::color_picker(array(\n   45              'ds' => 'td_option',\n   46              'option_id' => 'tds_page_h_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_posts.php:\n    7      <div class=\"td-box-control-full\">\n    8          <?php\n    9:         echo td_panel_generator::color_picker(array(\n   10              'ds' => 'td_option',\n   11              'option_id' => 'tds_post_title_color',\n   ..\n   24      <div class=\"td-box-control-full\">\n   25          <?php\n   26:         echo td_panel_generator::color_picker(array(\n   27              'ds' => 'td_option',\n   28              'option_id' => 'tds_post_author_name_color',\n   ..\n   41      <div class=\"td-box-control-full\">\n   42          <?php\n   43:         echo td_panel_generator::color_picker(array(\n   44              'ds' => 'td_option',\n   45              'option_id' => 'tds_post_content_color',\n   ..\n   58      <div class=\"td-box-control-full\">\n   59          <?php\n   60:         echo td_panel_generator::color_picker(array(\n   61              'ds' => 'td_option',\n   62              'option_id' => 'tds_post_h_color',\n   ..\n   75      <div class=\"td-box-control-full\">\n   76          <?php\n   77:         echo td_panel_generator::color_picker(array(\n   78              'ds' => 'td_option',\n   79              'option_id' => 'tds_post_blockquote_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/panel/views/ajax_boxes/td_panel_theme_colors/td_top_menu.php:\n    7      <div class=\"td-box-control-full\">\n    8          <?php\n    9:         echo td_panel_generator::color_picker(array(\n   10              'ds' => 'td_option',\n   11              'option_id' => 'tds_top_menu_color',\n   ..\n   25      <div class=\"td-box-control-full\">\n   26          <?php\n   27:         echo td_panel_generator::color_picker(array(\n   28              'ds' => 'td_option',\n   29              'option_id' => 'tds_top_menu_text_color',\n   ..\n   43      <div class=\"td-box-control-full\">\n   44          <?php\n   45:         echo td_panel_generator::color_picker(array(\n   46              'ds' => 'td_option',\n   47              'option_id' => 'tds_top_menu_text_hover_color',\n   ..\n   60      <div class=\"td-box-control-full\">\n   61          <?php\n   62:         echo td_panel_generator::color_picker(array(\n   63              'ds' => 'td_option',\n   64              'option_id' => 'tds_top_social_icons_color',\n   ..\n   77      <div class=\"td-box-control-full\">\n   78          <?php\n   79:         echo td_panel_generator::color_picker(array(\n   80              'ds' => 'td_option',\n   81              'option_id' => 'tds_top_social_icons_hover_color',\n   ..\n   94      <div class=\"td-box-control-full\">\n   95          <?php\n   96:         echo td_panel_generator::color_picker(array(\n   97              'ds' => 'td_option',\n   98              'option_id' => 'tds_top_border_color',\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/td_block_widget.php:\n  137  \n  138  \n  139:             case 'colorpicker':\n  140                  $empty_color_fix = '#';\n  141                  if (!empty($instance[$param['param_name']])) {\n  ...\n  144  \n  145  \n  146:                 $widget_color_picker_id = td_global::td_generate_unique_id();\n  147                  ?>\n  148                  <p>\n  149                      <label for=\"<?php echo $this->get_field_id($param['param_name']); ?>\"><?php echo $param['heading']; ?></label>\n  150:                     <input data-td-w-color=\"<?php echo $widget_color_picker_id?>\" class=\"widefat td-color-picker-field\" id=\"<?php echo $this->get_field_id($param['param_name']); ?>\"\n  151                             name=\"<?php echo $this->get_field_name($param['param_name']); ?>\" type=\"text\"\n  152                             value=\"<?php echo $empty_color_fix; ?>\" />\n  153:                     <div id=\"<?php echo $widget_color_picker_id?>\" class=\"td-color-picker-widget\" rel=\"<?php echo $this->get_field_id($param['param_name']); ?>\"></div>\n  154                  </p>\n  155  \n  ...\n  159  \n  160                  <script>\n  161:                     td_widget_attach_color_picker();\n  162                  </script>\n  163  \n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/td_global.php:\n  305  \t        'show_only_on_page_slugs' => ''\n  306          ),\n  307:         'td_wp_admin_color_picker' => array (\n  308: \t        'url' => '/includes/wp_booster/wp-admin/js/td_wp_admin_color_picker.js',\n  309  \t        'show_only_on_page_slugs' => ''\n  310          ),\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/td_wp_booster_functions.php:\n  376  \n  377  \n  378: \t//load the colorpicker\n  379: \twp_enqueue_style( 'wp-color-picker' );\n  380  \n  381  \t// load the media library - necessary for block widgets with image params\n  ...\n  387  \n  388  /* ----------------------------------------------------------------------------\n  389:  * farbtastic color picker CSS and JS for wp-admin / backend - loaded only in the widgets screen. Is used by our widget builder!\n  390   */\n  391  function td_on_admin_print_scripts_farbtastic() {\n  ...\n  425  \n  426  \t\tif ($last_js_file_id == '') {\n  427: \t\t\twp_enqueue_script($js_file_id, td_global::$get_template_directory_uri . $js_file_params['url'], array('jquery', 'wp-color-picker'), TD_THEME_VERSION, false); //first, load it with jQuery dependency\n  428  \t\t} else {\n  429  \t\t\twp_enqueue_script($js_file_id, td_global::$get_template_directory_uri . $js_file_params['url'], array($last_js_file_id), TD_THEME_VERSION, false);  //not first - load with the last file dependency\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/prepros.cfg:\n  112          \"0f4791e1\": {\n  113            \"id\": \"0f4791e1\",\n  114:           \"path\": \"panel/color_picker.less\",\n  115:           \"output\": \"panel/color_picker.css\",\n  116:           \"name\": \"color_picker.less\",\n  117            \"category\": \"CSS\",\n  118            \"autoCompile\": false,\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/wp-admin.css:\n  314    background-color: #ec4d4d;\n  315  }\n  316: .ionmag_page_td_theme_panel .wp-picker-container .button {\n  317    background-color: #ec4d4d !important;\n  318  }\n  ...\n 1296  }\n 1297  /*  ----------------------------------------------------------------------------\n 1298:    color picker\n 1299  */\n 1300: .toplevel_page_td_theme_panel .wp-picker-container {\n 1301    margin-bottom: 26px;\n 1302  }\n 1303: .wp-picker-container input.wp-color-picker[type=\"text\"] {\n 1304    height: 32px !important;\n 1305    box-shadow: none !important;\n 1306  }\n 1307: .wp-picker-container .button {\n 1308    color: #FFFFFF;\n 1309    font-size: 13px;\n ....\n 1318    box-shadow: none !important;\n 1319  }\n 1320: .wp-picker-container .button:hover,\n 1321: .wp-picker-container .button:focus,\n 1322: .wp-picker-container .button:active,\n 1323: .wp-picker-container .button:visited {\n 1324    color: #FFFFFF;\n 1325    background-color: #4db2ec;\n ....\n 1328    box-shadow: none !important;\n 1329  }\n 1330: .wp-picker-container .wp-color-result {\n 1331    border-radius: 0;\n 1332    height: 32px;\n ....\n 1337    box-shadow: inset 1px 1px 6px -2px rgba(0, 0, 0, 0.4);\n 1338  }\n 1339: .wp-picker-container .wp-color-result:after {\n 1340    border-radius: 0;\n 1341    display: inline-block;\n ....\n 1351    top: 3px;\n 1352  }\n 1353: .wp-picker-container .iris-picker {\n 1354    margin-bottom: 64px;\n 1355  }\n 1356: .td-panel-content .wp-picker-container .iris-picker {\n 1357    margin-bottom: 0;\n 1358  }\n ....\n 4691    height: 21px;\n 4692  }\n 4693: .widget-content .tdc-tabs-wrapper .wp-picker-container .button {\n 4694    margin-left: 8px !important;\n 4695  }\n 4696: .widget-content .tdc-tabs-wrapper .tdc-property-colorpicker .tdc-property .wp-picker-container {\n 4697    float: right;\n 4698  }\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/wp-admin.less:\n   21  \n   22  @import \"panel/import_demo.less\";\n   23: @import \"panel/color_picker.less\";\n   24  \n   25  \n   ..\n  260      }\n  261  \n  262:     .wp-picker-container .button {\n  263        margin-left: 8px !important;\n  264      }\n  265  \n  266:     .tdc-property-colorpicker .tdc-property .wp-picker-container {\n  267        float: right;\n  268      }\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/panel/color_picker.less:\n    1  \n    2: // by https://github.com/Codestar/codestar-wp-color-picker\n    3  .cs-alpha-wrap {\n    4    display: none;\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/panel/controls.less:\n  532  \n  533  /*  ----------------------------------------------------------------------------\n  534:    color picker\n  535  */\n  536  \n  537: .toplevel_page_td_theme_panel  .wp-picker-container {\n  538    margin-bottom: 26px;\n  539  }\n  540  \n  541: .wp-picker-container input.wp-color-picker[type=\"text\"] {\n  542    height: 32px !important;\n  543    box-shadow: none !important;\n  544  }\n  545  \n  546: .wp-picker-container .button {\n  547    color: #FFFFFF;\n  548    font-size:13px;\n  ...\n  558  }\n  559  \n  560: .wp-picker-container .button:hover,\n  561: .wp-picker-container .button:focus,\n  562: .wp-picker-container .button:active,\n  563: .wp-picker-container .button:visited {\n  564    color: #FFFFFF;\n  565    background-color: @td_panel_color;\n  ...\n  569  }\n  570  \n  571: .wp-picker-container .wp-color-result {\n  572    border-radius: 0;\n  573    height: 32px;\n  ...\n  579  }\n  580  \n  581: .wp-picker-container .wp-color-result:after {\n  582    border-radius: 0;\n  583    display: inline-block;\n  ...\n  594  }\n  595  \n  596: // color picker vc\n  597: .wp-picker-container .iris-picker {\n  598    margin-bottom: 64px;\n  599  }\n  600: // fix the picker color from TP\n  601: .td-panel-content .wp-picker-container .iris-picker {\n  602    margin-bottom: 0;\n  603  }\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/panel/theme-panel-general.less:\n   34    }\n   35  \n   36:   .wp-picker-container .button {\n   37      background-color: @red_panel_color !important;\n   38    }\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin.js:\n   12  \n   13  \n   14: function td_widget_attach_color_picker() {\n   15:     //hide all colorpickers\n   16:     jQuery('.td-color-picker-widget').hide();\n   17  \n   18:     // tagdiv widget colorpicker\n   19:     jQuery('.widgets-php .td-color-picker-widget').each(function(){\n   20          var $this = jQuery(this);\n   21          var id = $this.attr('rel');\n   ..\n   23      });\n   24  \n   25:     jQuery('.td-color-picker-field').click(function(){\n   26          jQuery('#' + jQuery(this).data('td-w-color')).fadeIn();\n   27      });\n   ..\n   29  \n   30      jQuery(document).mousedown(function() {\n   31:         jQuery('.td-color-picker-widget').each(function() {\n   32              var display = jQuery(this).css('display');\n   33              if ( display == 'block' )\n   ..\n   78  \n   79  \n   80:     td_widget_attach_color_picker();\n   81  \n   82      //alert(td_get_template_directory_uri);\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin_color_picker.js:\n    1  // @tagDiv - used on widgets? when we have a color select\n    2  // @todo lamurita treaba asta\n    3: // by https://github.com/Codestar/codestar-wp-color-picker\n    4  \n    5  // the semi-colon before the function invocation is a safety\n    .\n   47      };\n   48  \n   49:     $.fn.cs_wpColorPicker = function() {\n   50  \n   51          return this.each(function() {\n   ..\n   57  \n   58                  // parse value\n   59:                 var picker = $.cs_ParseColorValue( $this.val() );\n   60  \n   61:                 // wpColorPicker core\n   62:                 $this.wpColorPicker({\n   63  \n   64:                     // wpColorPicker: change\n   65                      change: function( event, ui ) {\n   66  \n   67                          // update checkerboard background color\n   68:                         $this.closest('.wp-picker-container').find('.cs-alpha-slider-offset').css('background-color', ui.color.toString());\n   69                          $this.trigger('keyup');\n   70  \n   71                      },\n   72  \n   73:                     // wpColorPicker: create\n   74                      create: function( event, ui ) {\n   75  \n   76                          // set variables for alpha slider\n   77                          var a8cIris       = $this.data('a8cIris'),\n   78:                             $container    = $this.closest('.wp-picker-container'),\n   79  \n   80                          // appending alpha wrapper\n   ..\n   83                              '<div class=\"cs-alpha-slider-offset\"></div>' +\n   84                              '<div class=\"cs-alpha-text\"></div>' +\n   85:                             '</div>').appendTo( $container.find('.wp-picker-holder') ),\n   86  \n   87                              $alpha_slider = $alpha_wrap.find('.cs-alpha-slider'),\n   ..\n   97                                  var slide_value = parseFloat( ui.value / 100 );\n   98  \n   99:                                 // update iris data alpha && wpColorPicker color option && alpha text\n  100                                  a8cIris._color._alpha = slide_value;\n  101:                                 $this.wpColorPicker( 'color', a8cIris._color.toString() );\n  102                                  $alpha_text.text( ( slide_value < 1 ? slide_value : '' ) );\n  103  \n  ...\n  107                              create: function() {\n  108  \n  109:                                 var slide_value = parseFloat( picker.alpha / 100 ),\n  110                                      alpha_text_value = slide_value < 1 ? slide_value : '';\n  111  \n  112                                  // update alpha text && checkerboard background color\n  113                                  $alpha_text.text(alpha_text_value);\n  114:                                 $alpha_offset.css('background-color', picker.value);\n  115  \n  116:                                 // wpColorPicker clear button for update iris data alpha && alpha text && slider color option\n  117:                                 $container.on('click', '.wp-picker-clear', function() {\n  118  \n  119                                      a8cIris._color._alpha = 1;\n  ...\n  123                                  });\n  124  \n  125:                                 // wpColorPicker default button for update iris data alpha && alpha text && slider color option\n  126:                                 $container.on('click', '.wp-picker-default', function() {\n  127  \n  128:                                     var default_picker = $.cs_ParseColorValue( $this.data('default-color') ),\n  129:                                         default_value  = parseFloat( default_picker.alpha / 100 ),\n  130                                          default_text   = default_value < 1 ? default_value : '';\n  131  \n  132                                      a8cIris._color._alpha = default_value;\n  133                                      $alpha_text.text(default_text);\n  134:                                     $alpha_slider.slider('option', 'value', default_picker.alpha).trigger('slide');\n  135  \n  136                                  });\n  137  \n  138:                                 // show alpha wrapper on click color picker button\n  139                                  $container.on('click', '.wp-color-result', function() {\n  140                                      $alpha_wrap.toggle();\n  ...\n  142  \n  143                                  // hide alpha wrapper on click body\n  144:                                 $('body').on( 'click.wpcolorpicker', function() {\n  145                                      $alpha_wrap.hide();\n  146                                  });\n  ...\n  149  \n  150                              // slider: options\n  151:                             value: picker.alpha,\n  152                              step: 1,\n  153                              min: 1,\n  ...\n  161              } else {\n  162  \n  163:                 // wpColorPicker default picker\n  164:                 $this.wpColorPicker({\n  165                      change: function() {\n  166                          $this.trigger('keyup');\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/panel/panel_core/td_panel_generator.php:\n  567       */\n  568  \n  569:     static function color_picker($params_array) {\n  570          $control_unique_id = td_global::td_generate_unique_id();\n  571  \n  ...\n  589          <input type=\"hidden\" name=\"<?php echo self::generate_default_values_name($params_array) ?>\" value=\"<?php echo $params_array['default_color'] ?>\">\n  590          <script>\n  591:             jQuery(\"#<?php echo $control_unique_id ?>\").cs_wpColorPicker();\n  592          </script>\n  593          <?php\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/panel/views/ajax_boxes/td_panel_categories/td_get_category_section_by_id.php:\n  191          <div class=\"td-box-control-full\">\n  192              <?php\n  193:             echo td_panel_generator::color_picker(array(\n  194                  'ds' => 'td_category',\n  195                  'item_id' => $category_id,\n  ...\n  256          <div class=\"td-box-control-full\">\n  257              <?php\n  258:             echo td_panel_generator::color_picker(array(\n  259                  'ds' => 'td_category',\n  260                  'item_id' => $category_id,\n\n158 matches across 22 files\n\n\nSearching 551 files for \"wpColorPicker\"\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin_color_picker.js:\n   47      };\n   48  \n   49:     $.fn.cs_wpColorPicker = function() {\n   50  \n   51          return this.each(function() {\n   ..\n   59                  var picker = $.cs_ParseColorValue( $this.val() );\n   60  \n   61:                 // wpColorPicker core\n   62:                 $this.wpColorPicker({\n   63  \n   64:                     // wpColorPicker: change\n   65                      change: function( event, ui ) {\n   66  \n   ..\n   71                      },\n   72  \n   73:                     // wpColorPicker: create\n   74                      create: function( event, ui ) {\n   75  \n   ..\n   97                                  var slide_value = parseFloat( ui.value / 100 );\n   98  \n   99:                                 // update iris data alpha && wpColorPicker color option && alpha text\n  100                                  a8cIris._color._alpha = slide_value;\n  101:                                 $this.wpColorPicker( 'color', a8cIris._color.toString() );\n  102                                  $alpha_text.text( ( slide_value < 1 ? slide_value : '' ) );\n  103  \n  ...\n  114                                  $alpha_offset.css('background-color', picker.value);\n  115  \n  116:                                 // wpColorPicker clear button for update iris data alpha && alpha text && slider color option\n  117                                  $container.on('click', '.wp-picker-clear', function() {\n  118  \n  ...\n  123                                  });\n  124  \n  125:                                 // wpColorPicker default button for update iris data alpha && alpha text && slider color option\n  126                                  $container.on('click', '.wp-picker-default', function() {\n  127  \n  ...\n  142  \n  143                                  // hide alpha wrapper on click body\n  144:                                 $('body').on( 'click.wpcolorpicker', function() {\n  145                                      $alpha_wrap.hide();\n  146                                  });\n  ...\n  161              } else {\n  162  \n  163:                 // wpColorPicker default picker\n  164:                 $this.wpColorPicker({\n  165                      change: function() {\n  166                          $this.trigger('keyup');\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/panel/panel_core/td_panel_generator.php:\n  589          <input type=\"hidden\" name=\"<?php echo self::generate_default_values_name($params_array) ?>\" value=\"<?php echo $params_array['default_color'] ?>\">\n  590          <script>\n  591:             jQuery(\"#<?php echo $control_unique_id ?>\").cs_wpColorPicker();\n  592          </script>\n  593          <?php\n\n13 matches across 2 files\n\n\nSearching 551 files for \"#dd9933\"\n\n0 matches\n\nSearching 551 files for \"color-picker\"\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/td_block_widget.php:\n  148                  <p>\n  149                      <label for=\"<?php echo $this->get_field_id($param['param_name']); ?>\"><?php echo $param['heading']; ?></label>\n  150:                     <input data-td-w-color=\"<?php echo $widget_color_picker_id?>\" class=\"widefat td-color-picker-field\" id=\"<?php echo $this->get_field_id($param['param_name']); ?>\"\n  151                             name=\"<?php echo $this->get_field_name($param['param_name']); ?>\" type=\"text\"\n  152                             value=\"<?php echo $empty_color_fix; ?>\" />\n  153:                     <div id=\"<?php echo $widget_color_picker_id?>\" class=\"td-color-picker-widget\" rel=\"<?php echo $this->get_field_id($param['param_name']); ?>\"></div>\n  154                  </p>\n  155  \n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/td_wp_booster_functions.php:\n  377  \n  378  \t//load the colorpicker\n  379: \twp_enqueue_style( 'wp-color-picker' );\n  380  \n  381  \t// load the media library - necessary for block widgets with image params\n  ...\n  425  \n  426  \t\tif ($last_js_file_id == '') {\n  427: \t\t\twp_enqueue_script($js_file_id, td_global::$get_template_directory_uri . $js_file_params['url'], array('jquery', 'wp-color-picker'), TD_THEME_VERSION, false); //first, load it with jQuery dependency\n  428  \t\t} else {\n  429  \t\t\twp_enqueue_script($js_file_id, td_global::$get_template_directory_uri . $js_file_params['url'], array($last_js_file_id), TD_THEME_VERSION, false);  //not first - load with the last file dependency\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/wp-admin.css:\n 1301    margin-bottom: 26px;\n 1302  }\n 1303: .wp-picker-container input.wp-color-picker[type=\"text\"] {\n 1304    height: 32px !important;\n 1305    box-shadow: none !important;\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/panel/color_picker.less:\n    1  \n    2: // by https://github.com/Codestar/codestar-wp-color-picker\n    3  .cs-alpha-wrap {\n    4    display: none;\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/css/panel/controls.less:\n  539  }\n  540  \n  541: .wp-picker-container input.wp-color-picker[type=\"text\"] {\n  542    height: 32px !important;\n  543    box-shadow: none !important;\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin.js:\n   14  function td_widget_attach_color_picker() {\n   15      //hide all colorpickers\n   16:     jQuery('.td-color-picker-widget').hide();\n   17  \n   18      // tagdiv widget colorpicker\n   19:     jQuery('.widgets-php .td-color-picker-widget').each(function(){\n   20          var $this = jQuery(this);\n   21          var id = $this.attr('rel');\n   ..\n   23      });\n   24  \n   25:     jQuery('.td-color-picker-field').click(function(){\n   26          jQuery('#' + jQuery(this).data('td-w-color')).fadeIn();\n   27      });\n   ..\n   29  \n   30      jQuery(document).mousedown(function() {\n   31:         jQuery('.td-color-picker-widget').each(function() {\n   32              var display = jQuery(this).css('display');\n   33              if ( display == 'block' )\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin_color_picker.js:\n    1  // @tagDiv - used on widgets? when we have a color select\n    2  // @todo lamurita treaba asta\n    3: // by https://github.com/Codestar/codestar-wp-color-picker\n    4  \n    5  // the semi-colon before the function invocation is a safety\n\n12 matches across 7 files\n\n\nSearching 551 files for \".td-ionmag-premium-magazine\"\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/demos/premium_magazine/demo_style.css:\n   35   */\n   36  /* Premium demo */\n   37: .td-ionmag-premium-magazine .block-title {\n   38    text-align: center;\n   39    float: none;\n   40  }\n   41: .td-ionmag-premium-magazine .block-title:after {\n   42    right: 0;\n   43    margin: auto;\n   ..\n   45    opacity: 0.7;\n   46  }\n   47: .td-ionmag-premium-magazine .entry-title:after {\n   48    height: 2px;\n   49    opacity: 0.4;\n   50  }\n   51: .td-ionmag-premium-magazine .td-related-title .td-cur-simple-item:after,\n   52: .td-ionmag-premium-magazine .td-comments-title-wrap h4:after,\n   53: .td-ionmag-premium-magazine .comment-reply-title:after,\n   54: .td-ionmag-premium-magazine .td-category-header .entry-title:after,\n   55: .td-ionmag-premium-magazine .td_block_author .td-author-name:after,\n   56: .td-ionmag-premium-magazine .td-author-header .entry-title:after,\n   57: .td-ionmag-premium-magazine .td-author-name:after {\n   58    height: 2px !important;\n   59  }\n   60: .td-ionmag-premium-magazine .td-post-template-rd-13 .entry-title,\n   61: .td-ionmag-premium-magazine .td_module_rd_6 .entry-title,\n   62: .td-ionmag-premium-magazine .td_module_rd_12 .entry-title,\n   63: .td-ionmag-premium-magazine .td_module_rd_13 .entry-title,\n   64: .td-ionmag-premium-magazine .td_module_mx_rd_bl_3 .entry-title,\n   65: .td-ionmag-premium-magazine .td_module_mx_rd_bl_2 .entry-title {\n   66    text-transform: uppercase;\n   67  }\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/demos/premium_magazine/demo_style.less:\n    3  \n    4  /* Premium demo */\n    5: .td-ionmag-premium-magazine {\n    6  \n    7    .block-title {\n\n17 matches across 2 files\n\n\nSearching 551 files for \"vc_single_image\"\n\n0 matches\n\nSearching 551 files for \"single_image\"\n\n0 matches\n\nSearching 551 files for \"single image\"\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/demos/default/td_media_4.php:\n   11  td_demo_media::add_image_to_media_gallery('td_pic_footer_bg',              \"http://demo_content.tagdiv.com/ion_mag/default/footer_bg.jpg\");\n   12  \n   13: //single images\n   14  td_demo_media::add_image_to_media_gallery('td_pic_homepage',            \"http://demo_content.tagdiv.com/ion_mag/default/homepage.jpg\");\n   15  td_demo_media::add_image_to_media_gallery('td_pic_blog',                \"http://demo_content.tagdiv.com/ion_mag/default/blog.jpg\");\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/demos/default/td_media_5.php:\n    4   */\n    5  \n    6: //single images\n    7  td_demo_media::add_image_to_media_gallery('td_pic_infinite1',                \"http://demo_content.tagdiv.com/ion_mag/default/infinite1.jpg\");\n    8  td_demo_media::add_image_to_media_gallery('td_pic_infinite2',                \"http://demo_content.tagdiv.com/ion_mag/default/infinite2.jpg\");\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/demos/default/td_media_6.php:\n    4   */\n    5  \n    6: //single images\n    7  td_demo_media::add_image_to_media_gallery('td_pic_sport1',                \"http://demo_content.tagdiv.com/ion_mag/default/sport1.jpg\");\n    8  td_demo_media::add_image_to_media_gallery('td_pic_sport2',                \"http://demo_content.tagdiv.com/ion_mag/default/sport2.jpg\");\n\n/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/panel/views/ajax_boxes/td_panel_categories/td_get_category_section_by_id.php:\n  207              <p>Upload your background image.</br> You can use:</p>\n  208              <ul>\n  209:                 <li>Single Image</li>\n  210                  <li>Pattern</li>\n  211              </ul>\n  ...\n  228              <p>How the background will be displayed</p>\n  229              <ul>\n  230:                 <li><b>Stretch:</b> use this option when you are using a Single Image for you background and you want this image to fill the entire background.</li>\n  231                  <li><b>Tiled:</b> use this option when you are using a Pattern for you background.</li>\n  232              </ul>\n\n5 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 40752,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "/**\n * Created by tagdiv on 26.11.2015.\n */\n\n/* global jQuery:{} */\n(function($){\n\n    'use strict';\n\n    $(document).ready(function(){\n\n        $( 'body' )\n            .off( 'click', '.td_access_token' )\n            .on( 'click', '.td_access_token', function(event) {\n            event.preventDefault();\n            var $this = $(this);\n\n            if ( $this.hasClass( 'facebook' ) ) {\n                var td_social_counter_panel = $this.closest( '.vc_edit_form_elements' ),\n                    facebook_app_id,\n                    facebook_security_key,\n                    facebook_access_token;\n\n                if ( td_social_counter_panel.length ) {\n                    facebook_app_id = td_social_counter_panel.find( 'input[name=\"facebook_app_id\"]' );\n                    facebook_security_key = td_social_counter_panel.find( 'input[name=\"facebook_security_key\"]' );\n                    facebook_access_token = td_social_counter_panel.find( 'input[name=\"facebook_access_token\"]' );\n                } else {\n\n                    // Try to see if we are in widget admin panel\n                    td_social_counter_panel = $this.closest('.widget-inside');\n\n                    if (td_social_counter_panel.length) {\n                        facebook_app_id = td_social_counter_panel.find('input[id$=\"facebook_app_id\"]');\n                        facebook_security_key = td_social_counter_panel.find('input[id$=\"facebook_security_key\"]');\n                        facebook_access_token = td_social_counter_panel.find('input[id$=\"facebook_access_token\"]');\n                    } else {\n                        // Try to see if we are in td-composer\n                        td_social_counter_panel= $this.closest( '.tdc-tab-content' );\n\n                        if ( td_social_counter_panel.length ) {\n                            facebook_app_id = td_social_counter_panel.find('input[name$=\"facebook_app_id\"]');\n                            facebook_security_key = td_social_counter_panel.find('input[name$=\"facebook_security_key\"]');\n                            facebook_access_token = td_social_counter_panel.find('input[name$=\"facebook_access_token\"]');\n                        }\n                    }\n                }\n\n                if ( facebook_app_id.length && facebook_security_key.length && facebook_access_token.length ) {\n\n                    var td_access_token_info = $this.next( '.td_access_token_info'),\n                        // values extracted to sanitize them\n                        val_facebook_app_id = facebook_app_id.val(),\n                        val_facebook_security_key = facebook_security_key.val();\n\n                    $.ajax({\n                        url: 'https://graph.facebook.com/oauth/access_token',\n                        data: {\n                            client_id: val_facebook_app_id,\n                            client_secret: val_facebook_security_key,\n                            grant_type: 'client_credentials'\n                        },\n                        beforeSend: function( jqXHR ) {\n\n                            // Clear the facebook social key\n                            // Important! This is done only for td-composer. The social counter renders itself (as td blocks do) when one of its parameters change, and it's possible to cache a not good value from api facebook.\n                            // That's why this cached value is cleared when a new facebook token is requested.\n                            if ( td_social_counter_panel.hasClass( 'tdc-tab-content' )\n\n                                // window.tdcAdminSettings.adminUrl is from td-composer\n                                && 'undefined' !== typeof window.tdcAdminSettings\n                                && 'undefined' !== typeof window.tdcAdminSettings.adminUrl ) {\n\n                                var $facebookClientName = td_social_counter_panel.find( 'input[name=\"tdc-param-facebook\"]' );\n\n                                if ( $facebookClientName.length ) {\n                                    $.get( window.tdcAdminSettings.adminUrl + 'admin.php?page=td_system_status&td_remote_cache_group=td_social_api&td_remote_cache_item=facebook_' + $facebookClientName.val() );\n                                }\n                            }\n\n                            if ( td_access_token_info.length ) {\n                                td_access_token_info.show();\n                            }\n                        }\n                    }).done(function( data, textStatus, jqXHR ) {\n                        console.log(data['access_token']);\n                        facebook_access_token.val( data['access_token'] );\n\n                        // We need it just for td-composer, for updating a shortcode model from sidebar inputs\n                        if ( td_social_counter_panel.hasClass( 'tdc-tab-content' ) ) {\n                            facebook_access_token.trigger( 'keyup' );\n                        }\n\n                    }).fail(function( jqXHR, textStatus, errorThrown ) {\n                        window.alert( 'Incorrect data, please check each field.' + '\\n\\n' + 'Info Message: ' + jqXHR.responseJSON.error.message );\n                    }).always(function( data, textStatus, jqXHR ) {\n                        if ( td_access_token_info.length ) {\n                            td_access_token_info.hide();\n                        }\n                    });\n                }\n            }\n        });\n    });\n\n})(jQuery);",
+			"file": "/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499896264/mapped/var/www/html/viedemotard/wp-content/plugins/td-social-counter/js/td_social_counter.js",
+			"file_size": 5555,
+			"file_write_time": 131443702450000000,
+			"settings":
+			{
+				"buffer_size": 5466,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/demos/premium_magazine/demo_style.css",
+			"settings":
+			{
+				"buffer_size": 1847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/* Premium demo */\nbody .block-title {\n  text-align: center;\n  float: none;\n}\nbody .block-title:after {\n  right: 0;\n  margin: auto;\n  height: 2px;\n  opacity: 0.7;\n}\nbody .entry-title:after {\n  height: 2px;\n  opacity: 0.4;\n}\nbody .td-related-title .td-cur-simple-item:after,\nbody .td-comments-title-wrap h4:after,\nbody .comment-reply-title:after,\nbody .td-category-header .entry-title:after,\nbody .td_block_author .td-author-name:after,\nbody .td-author-header .entry-title:after,\nbody .td-author-name:after {\n  height: 2px !important;\n}\nbody .td-post-template-rd-13 .entry-title,\nbody .td_module_rd_6 .entry-title,\nbody .td_module_rd_12 .entry-title,\nbody .td_module_rd_13 .entry-title,\nbody .td_module_mx_rd_bl_3 .entry-title,\nbody .td_module_mx_rd_bl_2 .entry-title {\n  text-transform: uppercase;\n}",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/modules/td_module_single.php",
+			"settings":
+			{
+				"buffer_size": 10087,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/wp_booster/wp-admin/panel/panel_core/td_panel_generator.php",
+			"settings":
+			{
+				"buffer_size": 38340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"rem",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"remo",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"b",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brp",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes"
+	],
+	"file_history":
+	[
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499870411/mapped/var/www/html/viedemotard/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499872583/mapped/var/www/html/viedemotard/wp-content/plugins/td-composer/td-composer.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/includes/wp_booster/wp-admin/js/td_wp_admin_color_picker.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/index2.html",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard/sftp-config.json",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499705151/mapped/var/www/html/viedemotard/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499707678/mapped/var/www/html/viedemotard/.htaccess",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499695013/mapped/var/www/html/viedemotard/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499694449/mapped/var/www/html/viedemotard/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499694417/mapped/var/www/html/viedemotard/wp-cron.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/css/shame.css",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/header-projet.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/template-voyages.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/single.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/index.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/templates/content.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/pagination.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/templates/projet.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/content-home.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499692829/mapped/var/www/html/laventurierviking/wp-config.php",
+		"/Users/nuagegraphik/.ssh/config",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/sftp-config.json",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/page.scss",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/js/scripts.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/author.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/archive.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/ajax-single.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/404.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/content-tools.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/footer.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/element.scss",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/loop.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/modules/post-like.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-uglify/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-uglify/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-uglify/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-uglify/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-uglify/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/searchform.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/maps/map-amerique-latine.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/tag.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-contrib-watch/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-rsync/node_modules/rsyncwrapper/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-rsync/node_modules/rsyncwrapper/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-rsync/node_modules/rsyncwrapper/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-rsync/node_modules/rsyncwrapper/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt-rsync/node_modules/rsyncwrapper/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/lodash/dist/lodash.compat.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/lodash/dist/lodash.compat.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/lodash/dist/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/lodash/dist/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/lodash/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/lodash/lodash.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/node_modules/grunt/node_modules/lodash/lodash.min.js",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/functions.php",
+		"/private/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/fz3temp-1/wysiwyg.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/category.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/page.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/languages/fr_FR.po",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/scss/modules/variables.scss",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/templates/comments.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/templates/comment.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/modules/comments.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/maps/map-eurasie.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/.sass-cache/6d00ae1f521ae6bd89137c7dab70ae1fdf7d80c6/variables.scssc",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/Gruntfile.js",
+		"/private/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/fz3temp-1/spot.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/header.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/style.css",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/ajax-category.php",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/scss/style.scss",
+		"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries/ajax-index.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/mediaqueries.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/Gruntfile.js",
+		"/Users/nuagegraphik/Sites/vikingDiaries/templates/content.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/element.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/page.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/functions.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/modules/variables.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/ajax-single.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/header-projet.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/single.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/content-home.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/footer.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/header.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/sftp-config.json",
+		"/Users/nuagegraphik/Sites/vikingDiaries/modules/post-like.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/js/lib/simple-likes-public.js",
+		"/Users/nuagegraphik/Sites/vikingDiaries/content-tools.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/js/lib/app.min.js",
+		"/Users/nuagegraphik/Sites/vikingDiaries/js/lib/post-like.js",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/style.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/nav.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/shame.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/template-voyages.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/layout.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/utils.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/js/scripts.js",
+		"/Users/nuagegraphik/Sites/theme/dwlaventurier/Gruntfile.js",
+		"/Users/nuagegraphik/Sites/theme/dwlaventurier/assets/js/scripts.js",
+		"/Users/nuagegraphik/Sites/vikingDiaries/page.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1454498034/mapped/var/www/html/laventurierviking-dev/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1454451490/mapped/var/www/html/laventurierviking-dev/wp-config.php",
+		"/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1454356963/mapped/var/www/html/laventurierviking-dev/wp-content/plugins/social-count-plus/includes/abstracts/abstract-social-count-plus-counter.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/.sass-cache/6d00ae1f521ae6bd89137c7dab70ae1fdf7d80c6/variables.scssc",
+		"/Users/nuagegraphik/Sites/theme/dwlaventurier/lib/nav.php",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/reset.scss",
+		"/Users/nuagegraphik/Sites/vikingDiaries/scss/partials/comments.scss"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<current file>",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Sites/vikingDiaries",
+			"/Users/nuagegraphik/Sites/vikingDiaries",
+			"",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Dropbox/Sites/theme/oniris",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Dropbox/Sites/theme/oniris/scss",
+			":not(.no-current)",
+			"",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Dropbox/Sites/theme/oniris/scss",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Dropbox/Sites/theme/oniris",
+			"/Volumes/Macintosh HD/Users/nuagegraphik/Dropbox/Sites/theme/oniris/scss/ink"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"single image",
+			"single_image",
+			"vc_single_image",
+			".td-ionmag-premium-magazine",
+			"ionmag-premium-magazine",
+			".td-ionmag-premium-magazine",
+			"color-picker",
+			"#dd9933",
+			"wpColorPicker",
+			"picker",
+			"#dd3333",
+			"http://oniris.nuagegraphik.fr",
+			"http://dev.viedemotard.fr",
+			"http://www.galerie-oniris.fr",
+			"'Presentation'",
+			"update",
+			"switch",
+			"<?= $cat->name; ?>",
+			"cat->name",
+			"$cat->name;",
+			"map",
+			"eurasie",
+			"_e(",
+			"_e",
+			"normalize-css",
+			"h2",
+			"h3",
+			".circle",
+			"<p>",
+			"li",
+			"wp_message",
+			"wp_spot",
+			"h2",
+			"cat",
+			"categorie_actu",
+			"get_template",
+			"categorie_des_actus",
+			"ajax-category",
+			"excludePosts",
+			"$excludePosts",
+			"loadPagedArticle",
+			"like",
+			"jm",
+			"loader",
+			"jm-post-like",
+			"loader",
+			"YourThemeTextDomain",
+			"getPostLikeLink",
+			"post-like",
+			"jm_post_like",
+			"ajax_var",
+			"break-large",
+			"vendor",
+			"history",
+			"ga",
+			"ga(",
+			"history",
+			"console.log",
+			"the_post_thumbnail",
+			".single-dairies article.open, .dairies article.open",
+			"&.active ",
+			"#nav-toggle",
+			"#nav-toggle ",
+			":hover",
+			"dw_timeline_nav_menu_args",
+			"break-extra-large",
+			".content",
+			"_e(",
+			"edit",
+			"article",
+			"shortco",
+			"Social_Count_Plus_Shortcodes",
+			"add_image",
+			"page",
+			"Page:",
+			"Page",
+			"Page Voyages",
+			"__(",
+			"       '<input placeholder=\"' . __( 'Website', 'html5blank' ) . '\" id=\"url\" name=\"url\" type=\"text\" value=\"' . esc_attr( $commenter['comment_author_url'] ) .\n",
+			"__(",
+			"_e(",
+			"_e",
+			"Comments are closed here.",
+			"__",
+			" __(",
+			"__(",
+			" __(",
+			"__(",
+			"__",
+			"html5blank",
+			"__",
+			"__('",
+			"1000px",
+			"100%",
+			"data-icon=\"<?= get_template_directory_uri(); ?>/img/icons/",
+			"/img/",
+			"carte",
+			"console.",
+			"scrollTo",
+			"comments_template(\n\n:not(.no-current));",
+			"DW_Timeline_Walker_Comment",
+			"comment",
+			"'/templates/comments.php'",
+			"comment",
+			"'content'",
+			"entry-meta",
+			"tools",
+			"console.log",
+			"$wrapper-width",
+			"rem-calc(800)",
+			"extend",
+			"scrollTo",
+			"button ",
+			"button",
+			"init_share",
+			"share",
+			"toolsInit",
+			"jm",
+			"console.log",
+			"&nbsp;",
+			"8",
+			"share",
+			"40px",
+			"notify",
+			"i",
+			"toolsInit",
+			"dairies",
+			"init_actions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://dev.viedemotard.fr",
+			"http://www.viedemotard.fr",
+			"<?= apply_filters('the_title', $cat->name) ?>",
+			"__(",
+			"get_simple_likes_button",
+			"comments_template();",
+			"",
+			"\n\n:not(.no-current)",
+			"",
+			"<?= do_shortcode(get_field(",
+			"$title-font",
+			"$body-font",
+			"$title-font-family",
+			"$lighter-grey"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 171.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page-pagebuilder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1406,
+								1406
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2037.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40752,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										317,
+										323
+									],
+									[
+										506,
+										512
+									],
+									[
+										692,
+										698
+									],
+									[
+										914,
+										920
+									],
+									[
+										1136,
+										1142
+									],
+									[
+										1358,
+										1364
+									],
+									[
+										1580,
+										1586
+									],
+									[
+										1802,
+										1808
+									],
+									[
+										2024,
+										2030
+									],
+									[
+										2246,
+										2252
+									],
+									[
+										2446,
+										2452
+									],
+									[
+										2646,
+										2652
+									],
+									[
+										2868,
+										2874
+									],
+									[
+										3090,
+										3096
+									],
+									[
+										3415,
+										3421
+									],
+									[
+										3646,
+										3652
+									],
+									[
+										3875,
+										3881
+									],
+									[
+										4112,
+										4118
+									],
+									[
+										4338,
+										4344
+									],
+									[
+										4569,
+										4575
+									],
+									[
+										4807,
+										4813
+									],
+									[
+										5040,
+										5046
+									],
+									[
+										5278,
+										5284
+									],
+									[
+										5654,
+										5660
+									],
+									[
+										5879,
+										5885
+									],
+									[
+										6099,
+										6105
+									],
+									[
+										6292,
+										6298
+									],
+									[
+										6633,
+										6639
+									],
+									[
+										6876,
+										6882
+									],
+									[
+										7108,
+										7114
+									],
+									[
+										7338,
+										7344
+									],
+									[
+										7570,
+										7576
+									],
+									[
+										7802,
+										7808
+									],
+									[
+										8033,
+										8039
+									],
+									[
+										8390,
+										8396
+									],
+									[
+										8614,
+										8620
+									],
+									[
+										8843,
+										8849
+									],
+									[
+										9076,
+										9082
+									],
+									[
+										9435,
+										9441
+									],
+									[
+										9666,
+										9672
+									],
+									[
+										9898,
+										9904
+									],
+									[
+										10135,
+										10141
+									],
+									[
+										10360,
+										10366
+									],
+									[
+										10597,
+										10603
+									],
+									[
+										10828,
+										10834
+									],
+									[
+										11066,
+										11072
+									],
+									[
+										11303,
+										11309
+									],
+									[
+										11662,
+										11668
+									],
+									[
+										11892,
+										11898
+									],
+									[
+										12124,
+										12130
+									],
+									[
+										12472,
+										12478
+									],
+									[
+										12702,
+										12708
+									],
+									[
+										12938,
+										12944
+									],
+									[
+										13170,
+										13176
+									],
+									[
+										13396,
+										13402
+									],
+									[
+										13756,
+										13762
+									],
+									[
+										13984,
+										13990
+									],
+									[
+										14217,
+										14223
+									],
+									[
+										14456,
+										14462
+									],
+									[
+										14692,
+										14698
+									],
+									[
+										14934,
+										14940
+									],
+									[
+										15193,
+										15199
+									],
+									[
+										15378,
+										15384
+									],
+									[
+										15693,
+										15699
+									],
+									[
+										15730,
+										15736
+									],
+									[
+										16056,
+										16062
+									],
+									[
+										16085,
+										16091
+									],
+									[
+										16302,
+										16308
+									],
+									[
+										16548,
+										16554
+									],
+									[
+										16644,
+										16650
+									],
+									[
+										16871,
+										16877
+									],
+									[
+										16914,
+										16920
+									],
+									[
+										17143,
+										17149
+									],
+									[
+										17505,
+										17511
+									],
+									[
+										18014,
+										18020
+									],
+									[
+										18068,
+										18074
+									],
+									[
+										18113,
+										18119
+									],
+									[
+										18393,
+										18399
+									],
+									[
+										18595,
+										18601
+									],
+									[
+										18653,
+										18659
+									],
+									[
+										18722,
+										18728
+									],
+									[
+										18754,
+										18760
+									],
+									[
+										18868,
+										18874
+									],
+									[
+										19010,
+										19016
+									],
+									[
+										19053,
+										19059
+									],
+									[
+										19096,
+										19102
+									],
+									[
+										19140,
+										19146
+									],
+									[
+										19300,
+										19306
+									],
+									[
+										19476,
+										19482
+									],
+									[
+										19622,
+										19628
+									],
+									[
+										19645,
+										19651
+									],
+									[
+										19722,
+										19728
+									],
+									[
+										19745,
+										19751
+									],
+									[
+										19873,
+										19879
+									],
+									[
+										20007,
+										20013
+									],
+									[
+										20032,
+										20038
+									],
+									[
+										20268,
+										20274
+									],
+									[
+										20340,
+										20346
+									],
+									[
+										20460,
+										20466
+									],
+									[
+										20485,
+										20491
+									],
+									[
+										20729,
+										20735
+									],
+									[
+										21010,
+										21016
+									],
+									[
+										21077,
+										21083
+									],
+									[
+										21154,
+										21160
+									],
+									[
+										21186,
+										21192
+									],
+									[
+										21308,
+										21314
+									],
+									[
+										21419,
+										21425
+									],
+									[
+										21462,
+										21468
+									],
+									[
+										21505,
+										21511
+									],
+									[
+										21549,
+										21555
+									],
+									[
+										21687,
+										21693
+									],
+									[
+										21807,
+										21813
+									],
+									[
+										21947,
+										21953
+									],
+									[
+										21968,
+										21974
+									],
+									[
+										21991,
+										21997
+									],
+									[
+										22057,
+										22063
+									],
+									[
+										22107,
+										22113
+									],
+									[
+										22130,
+										22136
+									],
+									[
+										22332,
+										22338
+									],
+									[
+										22591,
+										22597
+									],
+									[
+										22629,
+										22635
+									],
+									[
+										22666,
+										22672
+									],
+									[
+										22731,
+										22737
+									],
+									[
+										22780,
+										22786
+									],
+									[
+										22955,
+										22961
+									],
+									[
+										23172,
+										23178
+									],
+									[
+										23369,
+										23375
+									],
+									[
+										23720,
+										23726
+									],
+									[
+										23857,
+										23863
+									],
+									[
+										24011,
+										24017
+									],
+									[
+										24098,
+										24104
+									],
+									[
+										24146,
+										24152
+									],
+									[
+										24200,
+										24206
+									],
+									[
+										24403,
+										24409
+									],
+									[
+										24638,
+										24644
+									],
+									[
+										24929,
+										24935
+									],
+									[
+										25252,
+										25258
+									],
+									[
+										25544,
+										25550
+									],
+									[
+										25706,
+										25712
+									],
+									[
+										25998,
+										26004
+									],
+									[
+										26371,
+										26377
+									],
+									[
+										26443,
+										26449
+									],
+									[
+										26594,
+										26600
+									],
+									[
+										26806,
+										26812
+									],
+									[
+										26959,
+										26965
+									],
+									[
+										27052,
+										27058
+									],
+									[
+										27198,
+										27204
+									],
+									[
+										27580,
+										27586
+									],
+									[
+										27747,
+										27753
+									],
+									[
+										28077,
+										28083
+									],
+									[
+										28315,
+										28321
+									],
+									[
+										28491,
+										28497
+									],
+									[
+										28506,
+										28512
+									],
+									[
+										28549,
+										28555
+									],
+									[
+										28847,
+										28853
+									],
+									[
+										29215,
+										29221
+									],
+									[
+										29562,
+										29568
+									],
+									[
+										29802,
+										29808
+									],
+									[
+										30145,
+										30158
+									],
+									[
+										30340,
+										30353
+									],
+									[
+										30388,
+										30401
+									],
+									[
+										30442,
+										30455
+									],
+									[
+										30605,
+										30618
+									],
+									[
+										30863,
+										30876
+									],
+									[
+										31025,
+										31038
+									],
+									[
+										31333,
+										31346
+									],
+									[
+										31626,
+										31639
+									],
+									[
+										31973,
+										31986
+									],
+									[
+										32176,
+										32189
+									],
+									[
+										32234,
+										32247
+									],
+									[
+										32734,
+										32747
+									],
+									[
+										33284,
+										33296
+									],
+									[
+										33639,
+										33651
+									],
+									[
+										33944,
+										33956
+									],
+									[
+										34230,
+										34242
+									],
+									[
+										34720,
+										34732
+									],
+									[
+										34999,
+										35011
+									],
+									[
+										35228,
+										35240
+									],
+									[
+										35544,
+										35556
+									],
+									[
+										35658,
+										35670
+									],
+									[
+										35833,
+										35845
+									],
+									[
+										36050,
+										36062
+									],
+									[
+										36473,
+										36485
+									],
+									[
+										36797,
+										36824
+									],
+									[
+										36907,
+										36934
+									],
+									[
+										37043,
+										37070
+									],
+									[
+										37153,
+										37180
+									],
+									[
+										37233,
+										37260
+									],
+									[
+										37302,
+										37329
+									],
+									[
+										37365,
+										37392
+									],
+									[
+										37440,
+										37467
+									],
+									[
+										37515,
+										37542
+									],
+									[
+										37588,
+										37615
+									],
+									[
+										37689,
+										37716
+									],
+									[
+										37762,
+										37789
+									],
+									[
+										37827,
+										37854
+									],
+									[
+										37893,
+										37920
+									],
+									[
+										37959,
+										37986
+									],
+									[
+										38030,
+										38057
+									],
+									[
+										38290,
+										38317
+									],
+									[
+										38788,
+										38800
+									],
+									[
+										39211,
+										39223
+									],
+									[
+										39650,
+										39662
+									],
+									[
+										40242,
+										40254
+									],
+									[
+										40498,
+										40510
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								40752
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 10,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 30100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499896264/mapped/var/www/html/viedemotard/wp-content/plugins/td-social-counter/js/td_social_counter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4556,
+								4572
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_remote": true,
+							"local_path": "/var/www/html/viedemotard/wp-content/plugins/td-social-counter/js/td_social_counter.js",
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"tmp_dir": "/var/folders/rx/11qk3hl119s6btqp4j8p1bj80000gn/T/sublime-sftp-browse-1499896264/mapped/",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 253.0,
+						"translation.y": 1963.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "includes/demos/premium_magazine/demo_style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1846,
+								679
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								799
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Volumes/Macintosh HD/Users/nuagegraphik/Sites/viedemotard",
+							"incomplete_sync": null,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "includes/modules/td_module_single.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "includes/wp_booster/wp-admin/panel/panel_core/td_panel_generator.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24477,
+								24477
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18084.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "vdm.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hea",
+				"header-projet.php"
+			],
+			[
+				"pro",
+				"templates/projet.php"
+			],
+			[
+				"proj",
+				"templates/projet.php"
+			],
+			[
+				"comm",
+				"templates/comments.php"
+			],
+			[
+				"commen",
+				"modules/comments.php"
+			],
+			[
+				"conten",
+				"content-tools.php"
+			],
+			[
+				"comment",
+				"templates/comment.php"
+			],
+			[
+				"var",
+				"scss/modules/variables.scss"
+			],
+			[
+				"vari",
+				".sass-cache/6d00ae1f521ae6bd89137c7dab70ae1fdf7d80c6/variables.scssc"
+			],
+			[
+				"g",
+				"Gruntfile.js"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"scri",
+				"vikingDiaries/js/scripts.js"
+			],
+			[
+				"scrip",
+				"dwlaventurier/assets/js/scripts.js"
+			],
+			[
+				"sin",
+				"vikingDiaries/single.php"
+			],
+			[
+				"nav",
+				"dwlaventurier/lib/nav.php"
+			],
+			[
+				"ajax",
+				"vikingDiaries/ajax-single.php"
+			],
+			[
+				"singl",
+				"vikingDiaries/single.php"
+			],
+			[
+				"mapeur",
+				"vikingDiaries/maps/map-eurasie.php"
+			],
+			[
+				"ajas",
+				"vikingDiaries/ajax-single.php"
+			],
+			[
+				"aj",
+				"vikingDiaries/ajax-single.php"
+			],
+			[
+				"heade",
+				"vikingDiaries/header-projet.php"
+			],
+			[
+				"page",
+				"vikingDiaries/page.php"
+			],
+			[
+				"head",
+				"vikingDiaries/header-projet.php"
+			],
+			[
+				"comments",
+				"vikingDiaries/modules/comments.php"
+			],
+			[
+				"pos",
+				"vikingDiaries/js/lib/post-like.js"
+			],
+			[
+				"posli",
+				"vikingDiaries/js/lib/post-like.js"
+			],
+			[
+				"header",
+				"vikingDiaries/header-projet.php"
+			],
+			[
+				"shame",
+				"vikingDiaries/scss/partials/shame.scss"
+			],
+			[
+				"layou",
+				"vikingDiaries/scss/partials/layout.scss"
+			],
+			[
+				"loop",
+				"vikingDiaries/loop.php"
+			],
+			[
+				"scr",
+				"vikingDiaries/js/scripts.js"
+			],
+			[
+				"function",
+				"dwlaventurier/functions.php"
+			],
+			[
+				"style",
+				"vikingDiaries/scss/style.scss"
+			],
+			[
+				"sytl",
+				"vikingDiaries/style.css"
+			],
+			[
+				"inde",
+				"vikingDiaries/index.php"
+			],
+			[
+				"in",
+				"dwlaventurier/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less"
+			],
+			[
+				"arch",
+				"vikingDiaries/archive.php"
+			],
+			[
+				"footer",
+				"vikingDiaries/footer.php"
+			],
+			[
+				"",
+				"vikingDiaries/scss/partials/utils.scss"
+			],
+			[
+				"util",
+				"dwlaventurier/lib/utils.php"
+			],
+			[
+				"basi",
+				"vikingDiaries/node_modules/grunt-rsync/tests/basic.js"
+			],
+			[
+				"mix",
+				"vikingDiaries/scss/modules/mixins.scss"
+			],
+			[
+				"medi",
+				"oniris/scss/_mediaqueries.scss"
+			],
+			[
+				"info",
+				"oniris/templates/infos_pratiques.php"
+			],
+			[
+				"blo",
+				"oniris/scss/elements/_bloc.scss"
+			],
+			[
+				"elem",
+				"oniris/scss/_element.scss"
+			],
+			[
+				"mi",
+				"oniris/scss/_mixins.scss"
+			],
+			[
+				"foo",
+				"oniris/footer.php"
+			],
+			[
+				"ele",
+				"oniris/scss/_element.scss"
+			],
+			[
+				"sim",
+				"oniris/templates/simple.php"
+			],
+			[
+				"el",
+				"oniris/scss/_element.scss"
+			],
+			[
+				"mixi",
+				"oniris/scss/_mixins.scss"
+			],
+			[
+				"fo",
+				"oniris/footer.php"
+			],
+			[
+				"lay",
+				"oniris/scss/_layout.scss"
+			],
+			[
+				"foote",
+				"oniris/footer.php"
+			],
+			[
+				"funt",
+				"oniris/functions.php"
+			],
+			[
+				"gallery",
+				"oniris/templates/gallery.php"
+			],
+			[
+				"intro",
+				"oniris/elements/intro-expositions.php"
+			],
+			[
+				"he",
+				"oniris/header.php"
+			],
+			[
+				"se",
+				"oniris/search-home.php"
+			],
+			[
+				"icon",
+				"oniris/scss/_icons.scss"
+			],
+			[
+				"actu",
+				"oniris/templates/actu-highlight.php"
+			],
+			[
+				"search-home",
+				"oniris/search-home.php"
+			],
+			[
+				"actuhi",
+				"oniris/templates/actu-highlight.php"
+			],
+			[
+				"ctus",
+				"oniris/templates/actus.php"
+			],
+			[
+				"loopfl",
+				"oniris/loop-flex.php"
+			],
+			[
+				"rela",
+				"oniris/elements/relation-artistes.php"
+			],
+			[
+				"rel",
+				"oniris/templates/relations.php"
+			],
+			[
+				"loo",
+				"oniris/loop-list.php"
+			],
+			[
+				"video",
+				"oniris/templates/videos-list.php"
+			],
+			[
+				"introf",
+				"oniris/elements/intro-foires.php"
+			],
+			[
+				"lopp",
+				"oniris/loop-flex.php"
+			],
+			[
+				"lis",
+				"oniris/loop-list.php"
+			],
+			[
+				"inrto",
+				"oniris/elements/intro-foires.php"
+			],
+			[
+				"intr",
+				"oniris/elements/intro-expositions.php"
+			],
+			[
+				"mai",
+				"oniris/js/main.js"
+			],
+			[
+				"funct",
+				"oniris/functions.php"
+			],
+			[
+				"layout",
+				"oniris/scss/_layout.scss"
+			],
+			[
+				"mixin",
+				"oniris/scss/_mixins.scss"
+			],
+			[
+				"singleact",
+				"oniris/elements/single-actu.php"
+			],
+			[
+				"layo",
+				"oniris/scss/_layout.scss"
+			],
+			[
+				"m",
+				"oniris/js/main.js"
+			],
+			[
+				"flex",
+				"oniris/loop-flex.php"
+			],
+			[
+				"simp",
+				"oniris/templates/simple.php"
+			],
+			[
+				"functi",
+				"oniris/functions.php"
+			],
+			[
+				"ma",
+				"oniris/js/main.js"
+			],
+			[
+				"va",
+				"oniris/scss/_variables.scss"
+			],
+			[
+				"grun",
+				"oniris/Gruntfile.js"
+			],
+			[
+				"funti",
+				"oniris/functions.php"
+			],
+			[
+				"vai",
+				"oniris/scss/_variables.scss"
+			],
+			[
+				"loopli",
+				"oniris/loop-list.php"
+			],
+			[
+				"foto",
+				"oniris/scss/elements/_fotorama-base.scss"
+			],
+			[
+				"fot",
+				"oniris/css/fotorama.css"
+			],
+			[
+				"gall",
+				"oniris/templates/gallery.php"
+			],
+			[
+				"aside",
+				"oniris/scss/elements/_aside.scss"
+			],
+			[
+				"galler",
+				"oniris/templates/gallery.php"
+			],
+			[
+				"sha",
+				"oniris/scss/_shame.scss"
+			],
+			[
+				"lop",
+				"oniris/loop-flex.php"
+			],
+			[
+				"sham",
+				"oniris/scss/_shame.scss"
+			],
+			[
+				"galle",
+				"oniris/templates/gallery.php"
+			],
+			[
+				"fu",
+				"oniris/ft/asap-regular-demo.html"
+			],
+			[
+				"single",
+				"oniris/single.php"
+			],
+			[
+				"si",
+				"oniris/templates/simple.php"
+			],
+			[
+				"loppf",
+				"oniris/loop-flex.php"
+			],
+			[
+				"list",
+				"oniris/loop-list.php"
+			],
+			[
+				"la",
+				"oniris/scss/_layout.scss"
+			],
+			[
+				"lo",
+				"oniris/loop-flex.php"
+			],
+			[
+				"ac",
+				"oniris/templates/actu-highlight.php"
+			],
+			[
+				"actus",
+				"oniris/templates/actus.php"
+			],
+			[
+				"llo",
+				"oniris/loop-flex.php"
+			],
+			[
+				"index",
+				"oniris/index.php"
+			],
+			[
+				"ctu",
+				"oniris/templates/actu.php"
+			],
+			[
+				"act",
+				"oniris/templates/actu-highlight.php"
+			],
+			[
+				"bloc",
+				"oniris/scss/elements/_bloc.scss"
+			],
+			[
+				"elemen",
+				"oniris/scss/_element.scss"
+			],
+			[
+				"cle",
+				"oniris/lib/clean.php"
+			],
+			[
+				"cl",
+				"oniris/lib/clean.php"
+			],
+			[
+				"bas",
+				"oniris/scss/_basic.scss"
+			],
+			[
+				"pa",
+				"oniris/scss/_page.scss"
+			],
+			[
+				"ind",
+				"oniris/index.php"
+			],
+			[
+				"font",
+				"oniris/scss/_font.scss"
+			],
+			[
+				"fle",
+				"oniris/loop-flex.php"
+			],
+			[
+				"icon.s",
+				"oniris/scss/_icons.scss"
+			],
+			[
+				"sty",
+				"oniris/scss/style.scss"
+			],
+			[
+				"clea",
+				"oniris/lib/clean.php"
+			],
+			[
+				"baic",
+				"oniris/scss/_basic.scss"
+			],
+			[
+				"content",
+				"oniris/content.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

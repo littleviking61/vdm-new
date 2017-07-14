@@ -1,0 +1,61 @@
+/*
+Theme Name:   IonMag VDM
+Theme URI:    http://wpion.com
+Description:  Free Premium WordPress template, clean and easy to use.
+Template: ionMag
+Version:    1.5.1
+Author:     L'aventurier Viking
+Author URI:   http://laventurierviking.fr
+License:
+License URI:
+Tags: black, white, one-column, two-columns, fixed-layout
+Text Domain: ionMag-child
+*/
+
+.header-decale {
+    text-align: center;
+}
+
+.header-decale img{
+    display: inline-block; 
+    margin-bottom: -80px;
+}
+
+/* Premium demo */
+.tdc-row .block-title {
+  text-align: center;
+  float: none;
+}
+
+.tdc-row .block-title:after {
+  right: 0;
+  margin: auto;
+  height: 2px;
+  opacity: 0.7;
+}
+.tdc-row .entry-title:after {
+  height: 2px;
+  opacity: 0.4;
+}
+.tdc-row .td-related-title .td-cur-simple-item:after,
+.tdc-row .td-comments-title-wrap h4:after,
+.tdc-row .comment-reply-title:after,
+.tdc-row .td-category-header .entry-title:after,
+.tdc-row .td_block_author .td-author-name:after,
+.tdc-row .td-author-header .entry-title:after,
+.tdc-row .td-author-name:after {
+  height: 2px !important;
+}
+.tdc-row .td-post-template-rd-13 .entry-title,
+.tdc-row .td_module_rd_6 .entry-title,
+.tdc-row .td_module_rd_12 .entry-title,
+.tdc-row .td_module_rd_13 .entry-title,
+.tdc-row .td_module_mx_rd_bl_3 .entry-title,
+.tdc-row .td_module_mx_rd_bl_2 .entry-title {
+  text-transform: uppercase;
+}
+
+.td_social_type .td_social_button a {
+    padding: 1px 10px;
+    border-width: 1px;
+}
