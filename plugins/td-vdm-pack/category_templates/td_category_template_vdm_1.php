@@ -5,7 +5,7 @@ class td_category_template_vdm_1 extends td_category_template {
         ?>
 
         <!-- subcategory -->
-        <div class="td-category-header td-container-wrap td-category-gradient-style1">
+        <div class="td-category-header td-container-wrap td-category-gradient-style1" style="background-image:url(<?= get_the_category_data()->url; ?>)">
             <div class="td-container">
                 <div class="td-category-crumb-filter">
                     <?php echo parent::get_breadcrumbs(); ?>

@@ -32,7 +32,6 @@
                 
             </div>
         </div>
-
         <div class="td-pb-row">
             <?php locate_template('parts/footer/td_footer_extra_bottom.php', true); ?>
         </div>

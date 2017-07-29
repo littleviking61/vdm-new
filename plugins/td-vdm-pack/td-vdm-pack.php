@@ -76,6 +76,144 @@ class td_api_plugin_vdm_pack {
             )
         );
 
+        td_api_block::add('td_block_author_vdm',
+            array(
+                'map_in_visual_composer' => true,
+                "name" => 'Author box VDM',
+                "base" => "td_block_author_vdm",
+                "class" => "",
+                "controls" => "full",
+                "category" => 'Blocks',
+                'icon' => 'icon-pagebuilder-td_block_author',
+                'file' => $this->plugin_path . '/shortcodes/td_block_author_vdm.php',
+                "params" => array(
+                    array(
+                        "param_name" => "custom_title",
+                        "type" => "textfield",
+                        "value" => 'Block title',
+                        "heading" => "Block title",
+                        "description" => "Custom title for this block",
+                        "holder" => "div",
+                        "class" => "tdc-textfield-extrabig",
+                    ),
+                    array(
+                        "type" => "colorpicker",
+                        "holder" => "div",
+                        "class" => "",
+                        "heading" => 'Title text color',
+                        "param_name" => "header_text_color",
+                        "value" => '', //Default Red color
+                        "description" => 'Optional - Choose a custom title text color for this block',
+                    ),
+                    array(
+                        "type" => "colorpicker",
+                        "holder" => "div",
+                        "class" => "",
+                        "heading" => 'Title background color',
+                        "param_name" => "header_color",
+                        "value" => '', //Default Red color
+                        "description" => 'Optional - Choose a custom title background color for this block',
+                    ),
+                    array(
+                        "param_name" => "author_id",
+                        "type" => "textfield",
+                        "value" => '',
+                        "heading" => "Author ID",
+                        "description" => 'Set the author id',
+                        "holder" => "div",
+                        "class" => "tdc-textfield-small",
+                    ),
+                    array(
+                        "param_name" => "author_url_text",
+                        "type" => "textfield",
+                        "value" => '',
+                        "heading" => "Author page link text",
+                        "description" => "",
+                        "holder" => "div",
+                        "class" => "tdc-textfield-big",
+                    ),
+                     array(
+                        "param_name" => "block_width",
+                        "type" => "textfield",
+                        "value" => '',
+                        "heading" => 'Block width',
+                        "description" => "",
+                        "holder" => "div",
+                        "class" => "tdc-textfield-small"
+                    ),
+                    array(
+                        "param_name" => "author_info_text",
+                        "type" => "textfield",
+                        "value" => '',
+                        "heading" => "Author description text",
+                        "description" => "",
+                        "holder" => "div",
+                        "class" => "tdc-textfield-big",
+                    ),
+                    array(
+                        "param_name" => "author_url",
+                        "type" => "textfield",
+                        "value" => '',
+                        "heading" => "Author page link url",
+                        "description" => "",
+                        "holder" => "div",
+                        "class" => "tdc-textfield-big",
+                    ),
+                    array(
+                        "param_name" => "open_in_new_window",
+                        "type" => "checkbox",
+                        "value" => '',
+                        "heading" => "Open in new window",
+                        "description" => "",
+                        "holder" => "div",
+                        "class" => ""
+                    ),
+                    array(
+                        "param_name" => "separator",
+                        "type" => "horizontal_separator",
+                        "value" => "",
+                        "class" => ""
+                    ),
+                    array(
+                        'param_name' => 'el_class',
+                        'type' => 'textfield',
+                        'value' => '',
+                        'heading' => 'Extra class',
+                        'description' => 'Style particular content element differently - add a class name and refer to it in custom CSS',
+                        'class' => 'tdc-textfield-extrabig',
+                        'group' => ''
+                    ),
+                    array (
+                        'param_name' => 'css',
+                        'value' => '',
+                        'type' => 'css_editor',
+                        'heading' => 'Css',
+                        'group' => 'Design options',
+                    ),
+                    array (
+                        'param_name' => 'tdc_css',
+                        'value' => '',
+                        'type' => 'tdc_css_editor',
+                        'heading' => '',
+                        'group' => 'Design options',
+                    ),
+                )
+            )
+        );
+
+        // td_api_single_template::add('single_template_vdm_1',
+        //     array(
+        //         'file' => $this->plugin_path . '/single_template_vdm_1.php',
+        //         'text' => 'Single template VDM Video',
+        //         'img' => $this->plugin_url . '/images/panel/single_templates/single_template_rd_9.png',
+        //         'show_featured_image_on_all_pages' => true,
+        //         'bg_disable_background' => false,          // disable the featured image
+        //         'bg_box_layout_config' => 'auto',                // auto | td-boxed-layout | td-full-layout
+        //         'bg_use_featured_image_as_background' => false,   // uses the featured image as a background
+        //         'exclude_ad_content_top' => false,
+        //     )
+        // );
+
     }
 }
 new td_api_plugin_vdm_pack();

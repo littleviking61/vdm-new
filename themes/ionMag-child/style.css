@@ -59,3 +59,61 @@ Text Domain: ionMag-child
     padding: 1px 10px;
     border-width: 1px;
 }
+
+.td_block_image_box .td-custom-image a:before{
+  opacity: 0.15;
+}
+
+.td-post-template-rd-9 .entry-category{
+  display: none;  
+}
+
+/* bouton subscribe dans page vidéo*/
+div[id^="___ytsubscribe_"]{
+  padding: 10px !important;
+  background-color: white !important;
+  width: 200px !important;
+  height: 70px !important;
+  margin-bottom: 20px !important;
+  border: solid thin #f2f2f2;
+  border-style: solid !important;
+  overflow: hidden;
+}
+
+
+/* module en page acceuil avec element plus gros (featured)*/
+.td_block_rd_13 .td_block_inner .td_module_rd_13{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+.td_block_rd_13 .td_block_inner .td_module_rd_13:nth-child(2){
+  padding-left: 10px;
+  padding-right: 10px; 
+  padding-top: 0;
+}
+
+/* amélioration du bouton more */
+.td_ajax_load_more{
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  border: solid thin #eaeaea;
+  padding: 14px 15px 8px;
+}
+
+/* social counter footer */
+.footer-top{
+  margin-top: 40px;
+}
+
+.footer-top .td_block_social_counter{
+  display: block;
+  min-height: 1px;
+  float: left;
+  padding-right: 20px;
+  padding-left: 20px;
+  position: relative;
+  width: 33.33333333%;
+  clear: initial;
+}

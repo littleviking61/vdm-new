@@ -1,8 +1,9 @@
-       <div class="td-pb-row">
-            <div class="td-container">
+        <div class="td-container footer-top">
+            <div class="td-pb-row">
                 <?php dynamic_sidebar('Footer Top'); ?>
             </div>
         </div>
+        
             <!-- Instagram -->
     <?php if (td_util::get_option('tds_footer_instagram') == 'show') { ?>
 
